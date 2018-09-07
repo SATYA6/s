@@ -1,0 +1,10 @@
+
+today is friday
+
+I started with ec2 instancess
+I have started it 
+I clicked on connect
+I went to key on desktop
+i opened it 
+I went to it and clicked on get bash then it started
+
